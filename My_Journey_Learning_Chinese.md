@@ -3,28 +3,94 @@
 
 ## Common Chinese Phrases
 
-| Chinese Phrase   | Pinyin             | Meaning                           |
-|------------------|--------------------|-----------------------------------|
-| 没事             | méi shì            | It's okay / No problem            |
-| 我很好           | wǒ hěn hǎo         | I'm fine                          |
-| 谢谢             | xièxiè             | Thank you                         |
-| 对不起           | duìbuqǐ            | Sorry                             |
-| 没关系           | méi guānxi         | It's fine / No problem            |
-| 请问             | qǐng wèn           | Excuse me / May I ask             |
-| 好的             | hǎo de             | Okay / Alright                    |
-| 你好吗           | nǐ hǎo ma          | How are you?                      |
-| 再见             | zàijiàn            | Goodbye                           |
-| 我不知道         | wǒ bù zhīdào       | I don't know                      |
-| 我爱你           | wǒ ài nǐ           | I love you                        |
-| 早上好           | zǎoshàng hǎo       | Good morning                      |
-| 晚上好           | wǎnshàng hǎo       | Good evening                      |
-| 不要紧           | bú yàojǐn          | It's not a big deal               |
-| 我饿了           | wǒ è le            | I'm hungry                        |
-| 我累了           | wǒ lèi le          | I'm tired                         |
-| 我想去           | wǒ xiǎng qù        | I want to go                      |
-| 请帮助我         | qǐng bāngzhù wǒ    | Please help me                    |
-| 没问题           | méi wèntí          | No problem                        |
-| 当然             | dāngrán            | Of course                         |
+| Chinese Characters | Pinyin             | Meaning                             |
+|--------------------|--------------------|-------------------------------------|
+| 爱你               | ài nǐ              | Love you                            |
+| 帮助               | bāngzhù            | Help                                |
+| 不知道             | bù zhīdào          | Don't know                          |
+| 不要               | bù yào             | Don't want                          |
+| 不紧               | bù jǐn             | Not tight / Not urgent              |
+| 对不起             | duìbuqǐ            | Sorry                               |
+| 当然               | dāngrán            | Of course                           |
+| 服务               | fúwù               | Service                             |
+| 服务员             | fúwùyuán           | Waiter / Waitress / Service staff    |
+| 关系               | guānxi             | Relationship / Connection           |
+| 很好               | hěn hǎo            | Very good                           |
+| 很多               | hěn duō            | A lot / Many                        |
+| 累了               | lèi le             | Tired                               |
+| 没事               | méi shì            | It's okay / No problem              |
+| 没有               | méiyǒu             | Don't have / There is no            |
+| 没关系             | méi guānxi         | It's okay / No problem              |
+| 没问题             | méi wèntí          | No problem                          |
+| 谢谢               | xièxiè             | Thank you                           |
+| 不要紧             | bú yàojǐn          | It's not a big deal                 |
+| 请帮助我           | qǐng bāngzhù wǒ    | Please help me                      |
+| 请问               | qǐng wèn           | Excuse me / May I ask               |
+| 你好吗             | nǐ hǎo ma          | How are you?                        |
+| 再见               | zàijiàn            | Goodbye                             |
+| 我爱你             | wǒ ài nǐ           | I love you                          |
+| 我饿了             | wǒ è le            | I'm hungry                          |
+| 我很好             | wǒ hěn hǎo         | I'm fine                            |
+| 我累了             | wǒ lèi le          | I'm tired                           |
+| 我不知道           | wǒ bù zhīdào       | I don't know                        |
+| 我想去             | wǒ xiǎng qù        | I want to go                        |
+| 早上好             | zǎoshàng hǎo       | Good morning                        |
+| 晚上好             | wǎnshàng hǎo       | Good evening                        |
+| 事情               | shìqíng            | Thing / Matter / Affair             |
+| 问题               | wèntí              | Question / Problem                  |
+| 重要               | zhòngyào           | Important                           |
+| 饿了               | è le              | Hungry                              |
+
+
+
+## General Conversation Starters
+
+我想请教一下你知不知道这里附近有什么好的亚洲餐厅？
+
+你好，我想知道一下你知不知道附近有没有好的亚洲餐厅？
+(Nǐ hǎo, wǒ xiǎng zhīdào yīxià nǐ zhī bù zhīdào fùjìn yǒu méiyǒu hǎo de Yàzhōu cāntīng?)
+
+Breakdown:
+你好 (nǐ hǎo) – "Hello."
+我想知道一下 (wǒ xiǎng zhīdào yīxià) – "I would like to know" (with 一下 softening the request).
+你知不知道 (nǐ zhī bù zhīdào) – "Do you know" (asking whether they are aware).
+附近 (fùjìn) – "Nearby" or "around here."
+有没有 (yǒu méiyǒu) – "If there is" or "whether there is."
+好的亚洲餐厅 (hǎo de Yàzhōu cāntīng) – "A good Asian restaurant" (亚洲 means "Asia" and 餐厅 means "restaurant").
+
+
+
+
+所以我想明白一下你的老家在哪里" (Suǒyǐ wǒ xiǎng míngbái yīxià nǐ de lǎojiā zài nǎlǐ) - So, I would like to understand where your hometown is.
+
+我想知道一下你住在这里多久了？
+(Wǒ xiǎng zhīdào yīxià nǐ zhù zài zhèlǐ duōjiǔ le?)
+– "I would like to know how long you've lived here?"
+
+
+你好，我想请教一下你知不知道这里附近有什么好的亚洲餐厅？
+(Nǐ hǎo, wǒ xiǎng qǐngjiào yīxià nǐ zhī bù zhīdào zhèlǐ fùjìn yǒu shénme hǎo de Yàzhōu cāntīng?)
+
+请教 (qǐngjiào) – "To ask for advice" or "consult," which makes the phrase more formal or respectful.
+
+- 我想请教一下 (wǒ xiǎng qǐngjiào yīxià) – I would like to ask for your advice.
+- 你有没有最喜欢的餐厅？ (nǐ yǒu méiyǒu zuì xǐhuān de cāntīng?) – Do you have a favorite restaurant?
+- 你知不知道这里附近有什么好的亚洲餐厅 (nǐ zhī bù zhīdào zhèlǐ fùjìn yǒu shénme hǎo de Yàzhōu cāntīng) – Do you know if there are any good Asian restaurants nearby?
+
+## People-Related Phrases and Pronouns
+
+- **别人** (bié rén) – "Other people" or "others."
+- **一个人** (yī gè rén) – "One person" or "someone."
+- **对方** (duì fāng) – "The other party" or "the other person" (often used in formal contexts or in discussions about relationships or negotiations).
+- **自己** (zì jǐ) – "Oneself" or "yourself."
+- **大家** (dà jiā) – "Everyone" or "everybody."
+- **我们** (wǒ men) – "We" or "us."
+- **你们** (nǐ men) – "You all" or "you (plural)."
+- **他们** (tā men) – "They" or "them" (referring to males or a mixed group).
+- **她们** (tā men) – "They" or "them" (referring to females only).
+- **有人** (yǒu rén) – "Someone" or "there is someone."
+- **没有人** (méi yǒu rén) – "No one" or "nobody."
+
 
 ## Grammar
 
