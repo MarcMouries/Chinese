@@ -1,1 +1,3 @@
-# Chinese
+# Track my journey learning Chinese
+
+
