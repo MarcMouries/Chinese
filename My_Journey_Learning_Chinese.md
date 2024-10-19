@@ -1,5 +1,31 @@
 # My Journey Learning Chinese
 
+
+## Common Chinese Phrases
+
+| Chinese Phrase   | Pinyin             | Meaning                           |
+|------------------|--------------------|-----------------------------------|
+| 没事             | méi shì            | It's okay / No problem            |
+| 我很好           | wǒ hěn hǎo         | I'm fine                          |
+| 谢谢             | xièxiè             | Thank you                         |
+| 对不起           | duìbuqǐ            | Sorry                             |
+| 没关系           | méi guānxi         | It's fine / No problem            |
+| 请问             | qǐng wèn           | Excuse me / May I ask             |
+| 好的             | hǎo de             | Okay / Alright                    |
+| 你好吗           | nǐ hǎo ma          | How are you?                      |
+| 再见             | zàijiàn            | Goodbye                           |
+| 我不知道         | wǒ bù zhīdào       | I don't know                      |
+| 我爱你           | wǒ ài nǐ           | I love you                        |
+| 早上好           | zǎoshàng hǎo       | Good morning                      |
+| 晚上好           | wǎnshàng hǎo       | Good evening                      |
+| 不要紧           | bú yàojǐn          | It's not a big deal               |
+| 我饿了           | wǒ è le            | I'm hungry                        |
+| 我累了           | wǒ lèi le          | I'm tired                         |
+| 我想去           | wǒ xiǎng qù        | I want to go                      |
+| 请帮助我         | qǐng bāngzhù wǒ    | Please help me                    |
+| 没问题           | méi wèntí          | No problem                        |
+| 当然             | dāngrán            | Of course                         |
+
 ## Grammar
 
 ### Expressing the Past
