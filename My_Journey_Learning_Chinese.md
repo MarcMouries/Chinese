@@ -41,6 +41,16 @@
 | 重要               | zhòngyào           | Important                           |
 | 饿了               | è le              | Hungry                              |
 
+## Age categories
+
+| Emoji  | Word (English)   | Chinese (汉字) | Pinyin     |
+| ------ | ---------------- | -------------- | ---------- |
+| 👶     | Baby              | 婴儿           | Yīng'ér    |
+| 🧒     | Child             | 儿童           | Értóng     |
+| 👦👧   | Teenager          | 青少年         | Qīngshàonián |
+| 🧑     | Young (Youth)     | 少年 / 青年    | Shàonián / Qīngnián |
+| 👨👩  | Middle-aged        | 中年           | Zhōngnián  |
+| 👴👵   | Old / Elderly      | 老年           | Lǎonián    |
 
 
 ## General Conversation Starters
@@ -169,13 +179,13 @@ Sometimes, context alone can indicate the past tense without needing **了** or 
 
 
 ### In short:
-- **了** is used for **completed actions** and indicates that something has occurred or been done.  
+- **了** is used for **completed actions** and indicates that something has occurred or been done.
   Example: **我去北京了** to say "I've gone to Beijing" or "I went to Beijing" (emphasizing a completed action, usually with a specific time or context).
-  
-- **过** is used for **past experiences**, focusing on whether someone has experienced something.  
+
+- **过** is used for **past experiences**, focusing on whether someone has experienced something.
   Example: **我去过北京** to say "I've been to Beijing before" (emphasizing the experience, not the specific time).
 
-- **Time words** can also indicate past actions, and in some cases, they are enough to indicate the past without using **了** or **过**.  
+- **Time words** can also indicate past actions, and in some cases, they are enough to indicate the past without using **了** or **过**.
   Example: **我昨天去北京** means "I went to Beijing yesterday" (the time word **昨天** indicates the past).
 
 
