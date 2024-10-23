@@ -101,6 +101,98 @@ Breakdown:
 - **有人** (yǒu rén) – "Someone" or "there is someone."
 - **没有人** (méi yǒu rén) – "No one" or "nobody."
 
+# Common Adjectives
+### Beautiful / Pretty
+- **美丽 (měi lì)** means "Beautiful." It's often used to describe things that are not just physically attractive but also elegant, majestic, or emotionally beautiful.
+    Examples:
+    - 美丽的风景 (měi lì de fēng jǐng) – beautiful scenery
+    - 美丽的心灵 (měi lì de xīn líng) – a beautiful soul (abstract beauty)
+
+- **漂亮 (piào liang)** means "Pretty" or "good-looking." It's commonly used in daily conversation to compliment someone or something that looks nice or neat.
+    Examples:
+    - 她很漂亮 (tā hěn piào liang) – She is pretty.
+    - 这件衣服很漂亮 (zhè jiàn yī fu hěn piào liang) – This dress is pretty.
+    - 做得很漂亮 (zuò de hěn piào liang) – Well done! (referring to something done well)
+
+# Common Adjectives
+
+### Beautiful / Pretty
+- **美丽 (měi lì)** means "Beautiful." It's often used to describe things that are not just physically attractive but also elegant, majestic, or emotionally beautiful.
+    Examples:
+    - 美丽的风景 (měi lì de fēng jǐng) – beautiful scenery
+    - 美丽的心灵 (měi lì de xīn líng) – a beautiful soul (abstract beauty)
+
+- **漂亮 (piào liang)** means "Pretty" or "good-looking." It's commonly used in daily conversation to compliment someone or something that looks nice or neat.
+    Examples:
+    - 她很漂亮 (tā hěn piào liang) – She is pretty.
+    - 这件衣服很漂亮 (zhè jiàn yī fu hěn piào liang) – This dress is pretty.
+    - 做得很漂亮 (zuò de hěn piào liang) – Well done! (referring to something done well)
+
+---
+
+### Big / Small
+- **大 (dà)** means "Big" or "large." It is a very common adjective used to describe the size of objects, people, or abstract ideas.
+    Examples:
+    - 这个房子很大 (zhè gè fáng zi hěn dà) – This house is big.
+    - 他是一个大公司 (tā shì yī gè dà gōng sī) – He works for a big company.
+
+- **小 (xiǎo)** means "Small" or "little." It's used to describe something that is physically small or minor in scale.
+    Examples:
+    - 这只狗很小 (zhè zhī gǒu hěn xiǎo) – This dog is small.
+    - 我有一个小问题 (wǒ yǒu yī gè xiǎo wèn tí) – I have a small problem.
+
+---
+
+### Good / Bad
+- **好 (hǎo)** means "Good" or "well." It is used for both physical and abstract things and to describe feelings or situations.
+    Examples:
+    - 这本书很好 (zhè běn shū hěn hǎo) – This book is good.
+    - 你今天好吗？(nǐ jīn tiān hǎo ma?) – Are you doing well today?
+
+- **坏 (huài)** means "Bad" or "broken." It is used to describe negative situations, things that are not functioning, or morally bad behavior.
+    Examples:
+    - 这个手机坏了 (zhè gè shǒu jī huài le) – This phone is broken.
+    - 他是个坏人 (tā shì gè huài rén) – He is a bad person.
+
+---
+
+### Hot / Cold
+- **热 (rè)** means "Hot." It’s used to describe temperature, both for the weather and objects.
+    Examples:
+    - 今天很热 (jīn tiān hěn rè) – It’s hot today.
+    - 这杯茶很热 (zhè bēi chá hěn rè) – This cup of tea is hot.
+
+- **冷 (lěng)** means "Cold." It is used to describe cold temperatures, the weather, or feelings.
+    Examples:
+    - 外面很冷 (wài miàn hěn lěng) – It’s cold outside.
+    - 我感到很冷 (wǒ gǎn dào hěn lěng) – I feel very cold.
+
+---
+
+### Fast / Slow
+- **快 (kuài)** means "Fast" or "quick." It is used to describe speed in movement, action, or time.
+    Examples:
+    - 他跑得很快 (tā pǎo de hěn kuài) – He runs fast.
+    - 时间过得很快 (shí jiān guò de hěn kuài) – Time goes by quickly.
+
+- **慢 (màn)** means "Slow." It is used to describe something that moves or happens at a slow pace.
+    Examples:
+    - 这个车很慢 (zhè gè chē hěn màn) – This car is slow.
+    - 他学得很慢 (tā xué de hěn màn) – He learns slowly.
+
+---
+
+### Expensive / Cheap
+- **贵 (guì)** means "Expensive." It is used to describe things that have a high price.
+    Examples:
+    - 这件衣服很贵 (zhè jiàn yī fu hěn guì) – This piece of clothing is expensive.
+    - 这家餐厅很贵 (zhè jiā cān tīng hěn guì) – This restaurant is expensive.
+
+- **便宜 (pián yí)** means "Cheap" or "inexpensive." It is used to describe things that are affordable or have a low price.
+    Examples:
+    - 这双鞋很便宜 (zhè shuāng xié hěn pián yí) – These shoes are cheap.
+    - 这个市场的东西很便宜 (zhè gè shì chǎng de dōng xi hěn pián yí) – The things in this market are inexpensive.
+
 
 ## Grammar
 
