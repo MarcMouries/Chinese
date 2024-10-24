@@ -54,20 +54,31 @@
 
 ## Places
 
-| Emoji  | Word (English)   | Chinese (汉字) | Pinyin     |
-| ------ | ---------------- | -------------- | ---------- |
-| 🏢     | Office           | 办公室          | bàngōngshì |
-| 🏨     | Hotel            | 酒店           | jiǔdiàn    |
-| 🏥     | Hospital         | 医院           | yīyuàn     |
-| 🏠     | Home             | 家             | jiā        |
-| 🏫     | School           | 学校           | xuéxiào    |
-| 🏪     | Convenience Store| 便利店         | biànlìdiàn |
-| 🛒     | Supermarket      | 超市           | chāoshì    |
-| 🚌     | Bus Station      | 公交车站       | gōngjiāochēzhàn |
-| 🚉     | Train Station    | 火车站         | huǒchēzhàn |
-| 🛫     | Airport          | 机场           | jīchǎng    |
-| 🏞️     | Park             | 公园           | gōngyuán   |
-| 🏥     | Hospital         | 医院           | yīyuàn     |
+| Emoji  | Word (English)    | Chinese (汉字)   | Pinyin         |
+| ------ | ----------------- | --------------- | -------------- |
+| 🛫     | Airport           | 机场             | jīchǎng        |
+| 🏦     | Bank              | 银行             | yínháng        |
+| 🚌     | Bus Station       | 公交车站          | gōngjiāochēzhàn|
+| 📚     | Bookstore         | 书店             | shūdiàn        |
+| ⛪     | Church            | 教堂             | jiàotáng       |
+| 🎥     | Cinema            | 电影院           | diànyǐngyuàn   |
+| ☕      | Coffee Shop       | 咖啡店           | kāfēi diàn     |
+| 🏪     | Convenience Store | 便利店           | biànlìdiàn     |
+| 🍔     | Fast Food         | 快餐店           | kuàicāndiàn    |
+| 💐     | Flower Shop       | 花店             | huādiàn        |
+| 🏠     | Home              | 家               | jiā            |
+| 🏨     | Hotel             | 酒店             | jiǔdiàn        |
+| 🏥     | Hospital          | 医院             | yīyuàn         |
+| 🏛️     | Museum            | 博物馆           | bówùguǎn       |
+| 🏢     | Office            | 办公室           | bàngōngshì     |
+| 🏞️     | Park              | 公园             | gōngyuán       |
+| 💊     | Pharmacy          | 药店             | yàodiàn        |
+| 🍽️     | Restaurant        | 餐厅             | cāntīng        |
+| 🏫     | School            | 学校             | xuéxiào        |
+| 🛒     | Supermarket       | 超市             | chāoshì        |
+| 🚉     | Train Station     | 火车站           | huǒchēzhàn     |
+
+
 
 
 
