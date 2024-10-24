@@ -52,6 +52,26 @@
 | 👨👩  | Middle-aged        | 中年           | Zhōngnián  |
 | 👴👵   | Old / Elderly      | 老年           | Lǎonián    |
 
+## Places
+
+| Emoji  | Word (English)   | Chinese (汉字) | Pinyin     |
+| ------ | ---------------- | -------------- | ---------- |
+| 🏢     | Office           | 办公室          | bàngōngshì |
+| 🏨     | Hotel            | 酒店           | jiǔdiàn    |
+| 🏥     | Hospital         | 医院           | yīyuàn     |
+| 🏠     | Home             | 家             | jiā        |
+| 🏫     | School           | 学校           | xuéxiào    |
+| 🏪     | Convenience Store| 便利店         | biànlìdiàn |
+| 🛒     | Supermarket      | 超市           | chāoshì    |
+| 🚌     | Bus Station      | 公交车站       | gōngjiāochēzhàn |
+| 🚉     | Train Station    | 火车站         | huǒchēzhàn |
+| 🛫     | Airport          | 机场           | jīchǎng    |
+| 🏞️     | Park             | 公园           | gōngyuán   |
+| 🏥     | Hospital         | 医院           | yīyuàn     |
+
+
+
+
 
 ## General Conversation Starters
 
