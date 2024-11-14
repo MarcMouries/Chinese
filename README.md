@@ -11,17 +11,6 @@
 - https://forum.lingq.com/t/starting-chinese-from-scratch-day-4/368731
 
 
-
-
-
-Scott Hanselman - "It's not what you read, it's what you ignore"
-    https://www.youtube.com/watch?v=IWPgUn8tL8s&t=321s
-
-
-Workshop Tactics: the best problem-solving workshops in a box
-https://pipdecks.com/pages/workshop-tactics
-
-
 Comprehensive Reading Guide — from Beginner to Native Novels
     https://heavenlypath.notion.site/Comprehensive-Reading-Guide-from-Beginner-to-Native-Novels-b3d6abd583a944a397b4fbbb81e0c38c#7cb7fc7a350b46e891abcc9533b054a6
 
@@ -32,3 +21,8 @@ Learn Chinese for Chinese webnovels
 "aha" moment when it came to learning tones
 https://www.reddit.com/r/ChineseLanguage/comments/12huxu2/hey_reddit_fam_im_curious_what_was_your_aha/
 
+# Reading app with appropriate HSK levels, pinyin, and you can hear it read to you
+https://mandarinbean.com/all-lessons/?jsf=epro-loop-builder&tax=category:3;post_tag:16
+
+# Stories
+https://chinese.littlefox.com/en/story/contents_list/DP000732
