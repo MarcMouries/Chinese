@@ -41,6 +41,10 @@
 | 重要               | zhòngyào           | Important                           |
 | 饿了               | è le              | Hungry                              |
 
+
+## Salutations
+最近怎么样
+
 ## Age categories
 
 | Emoji  | Word (English)   | Chinese (汉字) | Pinyin     |
@@ -86,7 +90,7 @@
 
 ## General Conversation Starters
 
-我想请教一下你知不知道这里附近有什么好的亚洲餐厅？
+     我想请教一下你知不知道这里附近有什么好的亚洲餐厅？
 
 你好，我想知道一下你知不知道附近有没有好的亚洲餐厅？
 (Nǐ hǎo, wǒ xiǎng zhīdào yīxià nǐ zhī bù zhīdào fùjìn yǒu méiyǒu hǎo de Yàzhōu cāntīng?)
@@ -100,14 +104,11 @@ Breakdown:
 好的亚洲餐厅 (hǎo de Yàzhōu cāntīng) – "A good Asian restaurant" (亚洲 means "Asia" and 餐厅 means "restaurant").
 
 
-
-
 所以我想明白一下你的老家在哪里" (Suǒyǐ wǒ xiǎng míngbái yīxià nǐ de lǎojiā zài nǎlǐ) - So, I would like to understand where your hometown is.
 
 我想知道一下你住在这里多久了？
 (Wǒ xiǎng zhīdào yīxià nǐ zhù zài zhèlǐ duōjiǔ le?)
 – "I would like to know how long you've lived here?"
-
 
 你好，我想请教一下你知不知道这里附近有什么好的亚洲餐厅？
 (Nǐ hǎo, wǒ xiǎng qǐngjiào yīxià nǐ zhī bù zhīdào zhèlǐ fùjìn yǒu shénme hǎo de Yàzhōu cāntīng?)
