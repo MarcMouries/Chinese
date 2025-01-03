@@ -26,3 +26,6 @@ https://mandarinbean.com/all-lessons/?jsf=epro-loop-builder&tax=category:3;post_
 
 # Stories
 https://chinese.littlefox.com/en/story/contents_list/DP000732
+
+# Tone Trainer
+https://www.dong-chinese.com/learn/sounds/pinyin/toneTrainer
